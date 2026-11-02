@@ -1,0 +1,41 @@
+# ===== Vivado 生成目录（可随时重新生成，不纳入版本管理）=====
+cc.cache/
+cc.gen/
+cc.runs/
+cc.sim/
+cc.hw/
+cc.ip_user_files/
+.Xil/
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# ===== Vivado 综合/实现产物 =====
+*.dcp
+*.dcp.txt
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.rpt
+*.bit
+*.bin
+*.ltx
+*.xsa
+*.zip
+*.wcfg
+
+# ===== 备份与临时文件 =====
+*.backup
+*.bak
+*~
+*.tmp
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
